@@ -1,4 +1,4 @@
-# Hi! I'm Deer 🦌.
+# Hi! I'm Deer 🦌
 
 ***Looking for a summer internship***
 
@@ -6,7 +6,7 @@
 
 I'm a computer engineering student. I'm always trying to learn more about any kind of tech.
 I like to get to know a wide variety of tools, languages, platforms and problems to solve.
-Though I mostly post web projects, I've also worked with Rust, C, C++, Bash among others.
+Though I mostly post web projects, I've also worked with TypeScript, Rust, C, C++, Bash among others.
 I live in the terminal (neovim + tmux ❤️).
 
 ## Projects 🚧
@@ -16,8 +16,8 @@ I live in the terminal (neovim + tmux ❤️).
 
 ## Contact ✉️
 
-Reach me through e-mail at [deer.canidae@gmail.com](mailto:deer.canidae@gmail.com)
+Reach me through e-mail at [deer.canidae@gmail.com](mailto:deer.canidae+ghreadme@gmail.com)
 
-## P.S.
+## P.S
 
 > ✨ Never fear, Deer is here ✨
