@@ -1,7 +1,5 @@
 # Hi! I'm Deer 🦌
 
-***Looking for a summer internship***
-
 ## Who's Deer ⁉️
 
 I'm a computer engineering student. I'm always trying to learn more about any kind of tech.
